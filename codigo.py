@@ -7,7 +7,7 @@ def caixa_de_mercado():
         "Pão", "Manteiga", "Frango", "Carne", "Peixe",
         "Maçã", "Banana", "Laranja", "Cebola", "Tomate",
         "Batata", "Cenoura", "Alho", "Papel Toalha", "Detergente",
-        "Sabão", "Xampu", "Condicionador", "Creme Dental", "Desodorante"
+        "Sabão", "Shampoo", "Condicionador", "Creme Dental", "Desodorante"
     ]
 
     lista_precos = [
